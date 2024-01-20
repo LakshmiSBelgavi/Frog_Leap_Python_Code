@@ -13,7 +13,7 @@ This code was wriiten with [Google colab] and the link to notebook (https://cola
 
 ## How to Play
 
-1. Run the Python script (`WEEK-2_Frog_Leap_Python_LakshmiSBelgavi.ipynb`).
+1. Run the Python script.
 2. Enter the position of the selected frog (0-6) or press 'q' to quit.
 3. Follow the on-screen prompts to make valid moves.
 4. Continue making moves until you win the game or choose to quit.
